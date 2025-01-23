@@ -1,9 +1,9 @@
-var typed = new Typed(".text",{
-    strings:["Frontend Developer", "Java Developer", "Web Developer"],
-    typeSpeed : 10,
-    backSpeed : 100,
-    backDelay : 1000,
-    loop : true
+var typed = new Typed(".text", {
+    strings: ["Frontend Developer", "Java Developer", "Web Developer"],
+    typeSpeed: 10,
+    backSpeed: 100,
+    backDelay: 1000,
+    loop: true
 });
 // document.getElementById('contactForm').addEventListener('submit', function(event) {
 //     event.preventDefault(); // Form ko submit hone se roken
